@@ -1,0 +1,9 @@
+env
+.idea
+__pycache__
+build
+dist
+*.egg-info
+*.pyc
+*.DS_Store
+installed.txt
